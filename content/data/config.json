@@ -31,7 +31,8 @@
                 "url": "/contact",
                 "style": "primary"
             }
-        ]
+        ],
+        "logo": "images/1200px-Majesty_(old_name_of_Dream_Theater)_(logo).svg.png"
     },
     "footer": {
         "has_nav": true,
